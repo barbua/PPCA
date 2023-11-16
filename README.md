@@ -7,6 +7,7 @@ https://ani.stat.fsu.edu/~abarbu/papers/2022-Wang-Incremental_PPCA-BigData.pdf
 - B. Wang, A. Barbu. Hierarchical Classification for Large-Scale Learning. Electronics 12 No. 22, 4646, 2023
 https://www.mdpi.com/2079-9292/12/22/4646
 
+Files:
 - PPCA.ipynb trains and evaluates the PPCA model on the CLIP features. Also generates the CLIP features and the PPCA model data.
 - A PPCA model file for ILSVRC2016 can be downloaded from: https://ani.stat.fsu.edu/~abarbu/pca640_288_Imagenet.pth
 - HPPCA.ipynb trains and evaluates the Hierarchical PPCA model on the CLIP features.
