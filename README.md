@@ -8,7 +8,8 @@ https://ani.stat.fsu.edu/~abarbu/papers/2022-Wang-Incremental_PPCA-BigData.pdf
 https://www.mdpi.com/2079-9292/12/22/4646
 
 Files:
-- PPCA.ipynb trains and evaluates the PPCA model on the CLIP features. Also generates the CLIP features and the PPCA model data.
+- compute_features.ipynb generates CLIP and DINOV2 features and saves them to files.
+- PPCA.ipynb trains and evaluates the PPCA model on the CLIP features. 
 - A PPCA model file for ILSVRC2016 can be downloaded from: https://ani.stat.fsu.edu/~abarbu/pca640_288_Imagenet.pth
 - HPPCA.ipynb trains and evaluates the Hierarchical PPCA model on the CLIP features.
-- FC.ipynb trains and evaluates a fully connected layer (linear projection head) on the CLIP features
+- FC.ipynb trains and evaluates a fully connected layer (linear projection head) on the CLIP features.
